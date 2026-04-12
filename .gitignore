@@ -1,0 +1,20 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+## Logs
+logs/
+*.log
+
+## Secrets
+appsettings.Production.json
+secrets.json
+
+## JetBrains
+.idea/
+
+## VS Code
+.vscode/
