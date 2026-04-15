@@ -186,4 +186,4 @@ Use os cartões de teste oficiais do PagBank:
 
 ## 📄 Licença
 
-MIT © seu-usuario
+MIT © Gabriel Alves
