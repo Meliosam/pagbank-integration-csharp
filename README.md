@@ -47,7 +47,7 @@ PagBankIntegration/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/pagbank-integration-csharp.git
+git clone https://github.com/Meliosam/pagbank-integration-csharp.git
 cd pagbank-integration-csharp
 ```
 
